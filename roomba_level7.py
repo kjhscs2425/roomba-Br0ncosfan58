@@ -2,7 +2,7 @@
 # Roomba in Python
 # This file implements an algorithm for a roomba cleaning a room.
 #
-# Author: Dr. EB <------ REPLACE THIS WITH YOUR NAME!
+# Author: Max Wasserstein
 # -----------------------------------------------------------------------------
  
 from turtle import right, left, forward, backward
@@ -18,7 +18,6 @@ window = room.draw_room(level = 7, n_alcoves = n_alcoves)
 
 ###
 # Start your code here
- 
  
  
 # End your code here
